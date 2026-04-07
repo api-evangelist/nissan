@@ -10,7 +10,8 @@ apis:
     properties:
       - url: ' https://developer.na.nissancloud.com/'
         type: Documentation
-    description: 'Nissan North America Developer PortalStart Building Apps Today '
+    description: >-
+      Nissan North America Developer PortalStart Building Apps Today.
 name: Nissan
 tags:
   - Vehicles
@@ -23,15 +24,12 @@ created: '2025-02-08'
 modified: '2026-03-16'
 position: Consumer
 description: >-
-  Nissan is a multinational automaker that designs, manufactures, and sells a
-  wide range of vehicles, including cars, trucks, and SUVs. They are known for
-  their innovative technology and commitment to sustainability, with a focus on
-  producing electric and hybrid vehicles. In addition to their automotive
-  business, Nissan also invests in research and development to create new
-  products and services that cater to the changing needs of consumers. They have
-  a strong global presence, with manufacturing plants and offices in countries
-  around the world, and strive to provide high-quality, reliable vehicles to
-  customers everywhere.
+  Nissan is a multinational automaker that designs, manufactures, and sells a wide
+  range of vehicles, including cars, trucks, and SUVs. They are known for their innovative
+  technology and commitment to sustainability, with a focus on producing electric
+  and hybrid vehicles. In addition to their automotive business, Nissan also invests
+  in research and development to create new products and services that cater to the
+  changing needs of consumers.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
