@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: nissan:nissan
     name: Nissan
-    tags:
-      - API
+    tags: []
     humanURL: ' https://developer.na.nissancloud.com/'
     properties:
       - url: ' https://developer.na.nissancloud.com/'
@@ -14,9 +13,9 @@ apis:
       Nissan North America Developer PortalStart Building Apps Today.
 name: Nissan
 tags:
-  - Vehicles
   - Automobiles
   - Cars
+  - Vehicles
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
