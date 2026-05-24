@@ -60,3 +60,5 @@ common:
     description: 'null'
     url: https://developer.na.nissancloud.com/get-started#access-keys
     type: Authentication
+  - type: LLMsTxt
+    url: https://developer.na.nissancloud.com/llms.txt
