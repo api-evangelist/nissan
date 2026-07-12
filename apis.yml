@@ -62,3 +62,9 @@ common:
     type: Authentication
   - type: LlmsText
     url: https://developer.na.nissancloud.com/llms.txt
+
+common:
+  - type: DomainSecurity
+    url: security/nissan-domain-security.yml
+  - url: https://usa.nissannews.com/en-US/rss
+    type: Blog
