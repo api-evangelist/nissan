@@ -5,7 +5,7 @@ apis:
   - aid: nissan:nissan
     name: Nissan
     tags: []
-    humanURL: ' https://developer.na.nissancloud.com/'
+    humanURL: https://developer.na.nissancloud.com/
     properties:
       - url: ' https://developer.na.nissancloud.com/'
         type: Documentation
